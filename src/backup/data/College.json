@@ -1,0 +1,1417 @@
+{
+  "data": [
+    {
+      "id": "int_25425",
+      "name": "Học viện Phòng không - Không quân Việt Nam",
+      "formatting": []
+    },
+    {
+      "id": "int_21589",
+      "name": "San Agustin College - Biñan",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_15788",
+      "name": "Al-Qur'an University of Science",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_20591",
+      "name": "Agusan Business and Arts Foundation",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_15783",
+      "name": "Al-Asyariah Mandar University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_15785",
+      "name": "Al-Azhar University Indonesia",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_21608",
+      "name": "San Lorenzo Dema Ala Academy",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_21231",
+      "name": "Maritime Academy of Asia and the Pacific",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_15782",
+      "name": "Al-Amin Muhammadiyah University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_20625",
+      "name": "Asia College of Advanced Studies in Arts, Sciences and Technology",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_15808",
+      "name": "Bale Bandung University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_15816",
+      "name": "Bangka Belitung University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_12003",
+      "name": "Build Bright University",
+      "country": "KH",
+      "formatting": []
+    },
+    { "id": "int_25408", "name": "Trường Đại Học Tây Bắc", "formatting": [] },
+    {
+      "id": "int_15821",
+      "name": "Batam University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_15807",
+      "name": "Bakrie University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_21163",
+      "name": "Los Baños College",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_25345",
+      "name": "Học viện Biên phòng Việt Nam",
+      "formatting": []
+    },
+    {
+      "id": "int_15823",
+      "name": "Baturaja University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_15825",
+      "name": "Bengkulu University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_25372",
+      "name": "Nhạc Viện Tp. Hồ Chí Minh",
+      "formatting": []
+    },
+    {
+      "id": "int_20809",
+      "name": "Columban College - Olongapo City - Columban College - Sta. Cruz, Zambales",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_20783",
+      "name": "Christ the King College - Calbayog City",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_20727",
+      "name": "Calumpit College Colegio de Calumpit",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_21115",
+      "name": "La Consolacion College - La Carlota City",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_20788",
+      "name": "City College of Calamba",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_21106",
+      "name": "La Carlota City College",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_20721",
+      "name": "Cainta Catholic College",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_20723",
+      "name": "Calauag Central College",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_20824",
+      "name": "Corjesu Computer College",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_21156",
+      "name": "Liceo de Davao",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_20833",
+      "name": "Dagupan College Colegio de Dagupan",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_20845",
+      "name": "Davao Doctor's College",
+      "country": "PH",
+      "formatting": []
+    },
+    { "id": "int_25352", "name": "Trường Đại Học Duy Tân", "formatting": [] },
+    {
+      "id": "int_20645",
+      "name": "Ateneo de Davao University",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_20850",
+      "name": "Davao del Norte State College",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_21608",
+      "name": "San Lorenzo Dema Ala Academy",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_21632",
+      "name": "Santo Niño de Jasaan College",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_21631",
+      "name": "Santo Niño de Cabuyao College",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_20856",
+      "name": "De La Salle University - Dasmariñas",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_17855",
+      "name": "Asia e University",
+      "country": "MY",
+      "formatting": []
+    },
+    {
+      "id": "int_20936",
+      "name": "Eulogio R. Dizon College of Nueva Ecija",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_21320",
+      "name": "New Era University",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_15880",
+      "name": "Ekasakti University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_25520",
+      "name": "Hanyang University ERIKA Campus",
+      "country": "KR",
+      "formatting": []
+    },
+    {
+      "id": "int_15881",
+      "name": "Esa Unggul University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_20943",
+      "name": "Far Eastern University - FEU-East Asia College",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_21853",
+      "name": "University of the East - University of the East - Caloocan",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_20912",
+      "name": "Easter College",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_20927",
+      "name": "Ednor Colleges",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_20944",
+      "name": "Far Eastern University - FEU-FERN College",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_20942",
+      "name": "Far Eastern University - FEU-Dr. Nicanor Reyes Medical Foundation",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_15882",
+      "name": "Fajar University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_21085",
+      "name": "Jose C. Feliciano College Foundation",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_20948",
+      "name": "Felix O. Alfelor Sr. Foundation College",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_20960",
+      "name": "Fundamental Baptist College for Asians",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_21009",
+      "name": "Holy Family Centre of Studies Foundation",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_20947",
+      "name": "Felipe R. Verallo Memorial Foundation- Bogo",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_17862",
+      "name": "International Centre for Education in Islamic Finance",
+      "country": "MY",
+      "formatting": []
+    },
+    {
+      "id": "int_20943",
+      "name": "Far Eastern University - FEU-East Asia College",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_20969",
+      "name": "Golden Gate Colleges",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_15887",
+      "name": "Galuh University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_15890",
+      "name": "Garut University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_15895",
+      "name": "Gresik University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_15786",
+      "name": "Al-Ghifari University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_15893",
+      "name": "Gorontalo University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_15896",
+      "name": "Gunadarma University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_15884",
+      "name": "Gajah Mada University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_15885",
+      "name": "Gajah Putih University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_15976",
+      "name": "Jabal Ghafur University",
+      "country": "ID",
+      "formatting": []
+    },
+    { "id": "int_25390", "name": "Đại Học Huế", "formatting": [] },
+    { "id": "int_25387", "name": "Đại học Hoa Sen", "formatting": [] },
+    {
+      "id": "int_25365",
+      "name": "Trường Đại Học Văn Hóa Hà Nội",
+      "formatting": []
+    },
+    { "id": "int_25389", "name": "Đại Học Hồng Đức", "formatting": [] },
+    { "id": "int_25363", "name": "Trường Đại Học Hà Nội", "formatting": [] },
+    { "id": "int_25391", "name": "Đại Học Hùng Vương", "formatting": [] },
+    {
+      "id": "int_25440",
+      "name": "Đại Học Quốc Gia Hà Nội - Trường Đại học Khoa học Xã hội và Nhân văn",
+      "formatting": []
+    },
+    { "id": "int_25421", "name": "Trường Đại Học Văn Hiến", "formatting": [] },
+    { "id": "int_25362", "name": "Viện Đại Học Mở Hà Nội", "formatting": [] },
+    {
+      "id": "int_25432",
+      "name": "Đại Học Quốc Gia Hà Nội - Trường Đại học Khoa học Tự nhiên",
+      "formatting": []
+    },
+    {
+      "id": "int_21038",
+      "name": "Imus Institute",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_15962",
+      "name": "Islamic University of Indonesia",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_15963",
+      "name": "Islamic University of Indragiri",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_15923",
+      "name": "Indonesian Institute of Computer Science",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_15927",
+      "name": "Indonesian Institute of Technology",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_17862",
+      "name": "International Centre for Education in Islamic Finance",
+      "country": "MY",
+      "formatting": []
+    },
+    {
+      "id": "int_15919",
+      "name": "Indonesian Institute of Art - Denpasar",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_15921",
+      "name": "Indonesian Institute of Art - Surakarta",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_17866",
+      "name": "Inti International University",
+      "country": "MY",
+      "formatting": []
+    },
+    {
+      "id": "int_15905",
+      "name": "ISTPN Institute of Science and Technology",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_21599",
+      "name": "San Jose College - Jaro Colegio de San Jose - Jaro",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_15979",
+      "name": "Jambi University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_15982",
+      "name": "Jember University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_15978",
+      "name": "Jakarta University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_15981",
+      "name": "Jayabaya University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_15980",
+      "name": "Janabadra University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_15819",
+      "name": "Banten Jaya University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_21602",
+      "name": "San Juan Samar College",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_15976",
+      "name": "Jabal Ghafur University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_15977",
+      "name": "Jakarta Arts Institute",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_24290",
+      "name": "Khon Kaen University Mahawithayalai Khon Kaen",
+      "country": "TH",
+      "formatting": []
+    },
+    {
+      "id": "int_16003",
+      "name": "Kutai Kartanegara University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_16004",
+      "name": "Kwik Kian Gie School of Business",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_15992",
+      "name": "Karo University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_16000",
+      "name": "Krida Wacana Christian University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_16286",
+      "name": "Widya Karya Catholic University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_15986",
+      "name": "Kalbis Institute",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_15996",
+      "name": "Kediri University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_15999",
+      "name": "Klabat University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_15988",
+      "name": "Kaltara University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_25422",
+      "name": "Trường Đại Học Dân Lập Văn Lang",
+      "formatting": []
+    },
+    {
+      "id": "int_25413",
+      "name": "Trường Đại Học Dân Lập Thăng Long",
+      "formatting": []
+    },
+    {
+      "id": "int_20854",
+      "name": "De La Salle Lipa",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_21137",
+      "name": "Lake Lanao College",
+      "country": "PH",
+      "formatting": []
+    },
+    { "id": "int_25349", "name": "Trường Đại Học Đà Lạt", "formatting": [] },
+    {
+      "id": "int_21178",
+      "name": "Lyceum of Northern Luzon",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_21738",
+      "name": "Sta. Lourdes of Leyte Foundation College",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_21379",
+      "name": "Our Lady of Lourdes College",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_21606",
+      "name": "San Juan de Letran College - Manila - San Juan de Letran College - Calamba, Laguna",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_25358",
+      "name": "Trường Đại Học Luật Hà Nội",
+      "formatting": []
+    },
+    {
+      "id": "int_16038",
+      "name": "Merdeka University Malang",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_16037",
+      "name": "Merdeka University Madiun",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_21825",
+      "name": "University of Muslim Mindanao Jamiatu Muslim Mindanao",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_25372",
+      "name": "Nhạc Viện Tp. Hồ Chí Minh",
+      "formatting": []
+    },
+    {
+      "id": "int_21441",
+      "name": "Philippine Merchant Marine School - Manila - Philippine Merchant Marine School",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_16085",
+      "name": "Musamus University of Merauke",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_16030",
+      "name": "Maulana Malik Ibrahim State Islamic University Malang",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_17883",
+      "name": "Technical University Malaysia Melaka",
+      "country": "MY",
+      "formatting": []
+    },
+    {
+      "id": "int_21626",
+      "name": "Santa Monica - Manila College",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_25373",
+      "name": "Trường Đại Học Mở Tp. Hồ Chí Minh",
+      "formatting": []
+    },
+    {
+      "id": "int_16101",
+      "name": "Nusa Nipa University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_25448",
+      "name": "Học Viện Nông Nghiệp Việt Nam",
+      "formatting": []
+    },
+    {
+      "id": "int_21320",
+      "name": "New Era University",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_21326",
+      "name": "North Negros College",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_21443",
+      "name": "Philippine Normal University Pamantasang Normal ng Pilipinas",
+      "country": "PH",
+      "formatting": []
+    },
+    { "id": "int_25409", "name": "Đại học Tây Nguyên", "formatting": [] },
+    {
+      "id": "int_17874",
+      "name": "Nilai University",
+      "country": "MY",
+      "formatting": []
+    },
+    { "id": "int_25403", "name": "Trường Đại Học Quy Nhơn", "formatting": [] },
+    {
+      "id": "int_25412",
+      "name": "Truong Đại Học Kỹ Thuật Công Nghiệp Thái Nguyên",
+      "formatting": []
+    },
+    {
+      "id": "int_25449",
+      "name": "Học viện Hải quân Việt Nam",
+      "formatting": []
+    },
+    {
+      "id": "int_21743",
+      "name": "Sto. Niño College of Ormoc",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_21364",
+      "name": "Oblates of St. Joseph College of Philosophy",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_21384",
+      "name": "Our Lady of Mt. Carmel Institute of Medical Studies",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_21383",
+      "name": "Our Lady of Mercy College",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_21379",
+      "name": "Our Lady of Lourdes College",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_21382",
+      "name": "Our Lady of Manaoag College",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_21377",
+      "name": "Our Lady of Fatima University",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_21386",
+      "name": "Our Lady of Salvation College",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_21566",
+      "name": "Saint Peter's College of Ormoc",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_21376",
+      "name": "Our Lady of Assumption College",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_16111",
+      "name": "PGRI University of Palembang",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_16133",
+      "name": "Pasir Pangaraian University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_16110",
+      "name": "PGRI University of Palangka Raya",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_21443",
+      "name": "Philippine Normal University Pamantasang Normal ng Pilipinas",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_21463",
+      "name": "Prince of Peace College",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_15920",
+      "name": "Indonesian Institute of Art - Padang Panjang",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_16151",
+      "name": "Putra Indonesia 'YPTK' University of Padang",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_20905",
+      "name": "Dr. Pedro P. Ocampo Colleges",
+      "country": "PH",
+      "formatting": []
+    },
+    { "id": "int_25401", "name": "Đại học Phương Đông", "formatting": [] },
+    {
+      "id": "int_21564",
+      "name": "Saint Pedro Poveda College",
+      "country": "PH",
+      "formatting": []
+    },
+    { "id": "int_25402", "name": "Đại học Quang Trung", "formatting": [] },
+    { "id": "int_25403", "name": "Trường Đại Học Quy Nhơn", "formatting": [] },
+    {
+      "id": "int_16153",
+      "name": "Quality University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_25393",
+      "name": "Học viện Kỹ thuật Quân sự Việt Nam",
+      "formatting": []
+    },
+    {
+      "id": "int_15788",
+      "name": "Al-Qur'an University of Science",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_20919",
+      "name": "Eastern Quezon College",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_21474",
+      "name": "Quirino State University",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_21503",
+      "name": "STI College Quezon Avenue",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_25433",
+      "name": "Đại Học Quốc Gia Hà Nội - Khoa Quốc tế",
+      "formatting": []
+    },
+    {
+      "id": "int_21208",
+      "name": "Manuel L. Quezon University",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_16158",
+      "name": "Riau University - University of Riau",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_24352",
+      "name": "Roi Et Rajabhat University",
+      "country": "TH",
+      "formatting": []
+    },
+    {
+      "id": "int_21629",
+      "name": "Santa Rita College",
+      "country": "PH",
+      "formatting": []
+    },
+    { "id": "int_25404", "name": "RMIT University Vietnam", "formatting": [] },
+    {
+      "id": "int_17885",
+      "name": "Tun Abdul Razak University",
+      "country": "MY",
+      "formatting": []
+    },
+    {
+      "id": "int_16086",
+      "name": "Musi Rawas University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_16094",
+      "name": "Ngurah Rai University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_16187",
+      "name": "Serang Raya University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_15975",
+      "name": "Islamic University of Riau",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_15814",
+      "name": "Bandung Raya University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_21620",
+      "name": "San Sebastian College - Sablayan",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_21730",
+      "name": "St. Scholastica's College",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_21563",
+      "name": "Saint Paul's Business School",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_21602",
+      "name": "San Juan Samar College",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_21573",
+      "name": "Saint Scholastica's College of Health Sciences",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_21551",
+      "name": "Saint Mary's College of San Juan",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_21724",
+      "name": "St. Paul Univerity System - St. Paul University Surigao",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_21756",
+      "name": "Surigao del Sur State University",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_16162",
+      "name": "Sahid University of Surakarta",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_21721",
+      "name": "St. Paul Univerity System - Saint Paul College of Ilocos Sur",
+      "country": "PH",
+      "formatting": []
+    },
+    { "id": "int_25407", "name": "Đại học Tân Tạo", "formatting": [] },
+    {
+      "id": "int_25415",
+      "name": "Trường Đại Học Bán Công Tôn Đức Thắng",
+      "formatting": []
+    },
+    { "id": "int_25397", "name": "Đại học Nguyễn Tất Thành", "formatting": [] },
+    {
+      "id": "int_25412",
+      "name": "Truong Đại Học Kỹ Thuật Công Nghiệp Thái Nguyên",
+      "formatting": []
+    },
+    { "id": "int_25408", "name": "Trường Đại Học Tây Bắc", "formatting": [] },
+    { "id": "int_25347", "name": "Trường Đại học Cần-Thơ", "formatting": [] },
+    { "id": "int_25352", "name": "Trường Đại Học Duy Tân", "formatting": [] },
+    {
+      "id": "int_25384",
+      "name": "Trường Đại Học Giao thông Vận Tải Tp. Hồ Chi Minh",
+      "formatting": []
+    },
+    {
+      "id": "int_25398",
+      "name": "Trường Đại Học Thủy Sản Nha Trang",
+      "formatting": []
+    },
+    {
+      "id": "int_25411",
+      "name": "Trường Đại Học Thái Nguyên",
+      "formatting": []
+    },
+    {
+      "id": "int_17888",
+      "name": "UCSI University",
+      "country": "MY",
+      "formatting": []
+    },
+    {
+      "id": "int_16263",
+      "name": "Udayana University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_15864",
+      "name": "Darul Ulum University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_15881",
+      "name": "Esa Unggul University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_17889",
+      "name": "UNITAR International University",
+      "country": "MY",
+      "formatting": []
+    },
+    {
+      "id": "int_16029",
+      "name": "Mathla'ul Anwar University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_16217",
+      "name": "Sumatera Utara University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_25354",
+      "name": "Griggs University Vietnam (US)",
+      "formatting": []
+    },
+    {
+      "id": "int_15863",
+      "name": "Darul Ulum Islamic University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_25346",
+      "name": "British University Vietnam (U.K.)",
+      "formatting": []
+    },
+    {
+      "id": "int_25449",
+      "name": "Học viện Hải quân Việt Nam",
+      "formatting": []
+    },
+    {
+      "id": "int_25344",
+      "name": "Học viện Ngân hàng Việt Nam",
+      "formatting": []
+    },
+    {
+      "id": "int_25426",
+      "name": "Học Viện Hàng không Việt Nam",
+      "formatting": []
+    },
+    {
+      "id": "int_25423",
+      "name": "Học viện Hậu cần Việt Nam",
+      "formatting": []
+    },
+    { "id": "int_25453", "name": "Đại học Vinh", "formatting": [] },
+    {
+      "id": "int_25351",
+      "name": "Học Viện Ngoại giao Việt Nam",
+      "formatting": []
+    },
+    { "id": "int_25429", "name": "Học viện Quân y Việt Nam", "formatting": [] },
+    {
+      "id": "int_25395",
+      "name": "Học viện Quốc phòng Việt Nam",
+      "formatting": []
+    },
+    {
+      "id": "int_25424",
+      "name": "Học viện Khoa học Quân sự Việt Nam",
+      "formatting": []
+    },
+    {
+      "id": "int_25430",
+      "name": "Học viện Chính trị Quân sự Việt Nam",
+      "formatting": []
+    },
+    {
+      "id": "int_17903",
+      "name": "Wawasan Open University",
+      "country": "MY",
+      "formatting": []
+    },
+    {
+      "id": "int_16297",
+      "name": "Wiraraja University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_16281",
+      "name": "Warmadewa University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_16292",
+      "name": "Widyatama University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_16296",
+      "name": "Wiralodra University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_16280",
+      "name": "Wahid Hasyim University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_16279",
+      "name": "W.R. Supratman University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_16282",
+      "name": "Widya Dharma University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_16291",
+      "name": "Widya Putra University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_16295",
+      "name": "Winaya Mukti University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_25400",
+      "name": "Trường Đại học Dân lập Phú Xuân, Huế",
+      "formatting": []
+    },
+    {
+      "id": "int_16194",
+      "name": "Sisingamangaraja XII University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_21896",
+      "name": "Xavier University",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_21527",
+      "name": "Saint Francis Xavier College",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_13104",
+      "name": "Xichang College",
+      "country": "CN",
+      "formatting": []
+    },
+    {
+      "id": "int_13106",
+      "name": "Xihua University",
+      "country": "CN",
+      "formatting": []
+    },
+    {
+      "id": "int_13120",
+      "name": "Xinyu University",
+      "country": "CN",
+      "formatting": []
+    },
+    {
+      "id": "int_13097",
+      "name": "Xiamen University",
+      "country": "CN",
+      "formatting": []
+    },
+    {
+      "id": "int_13107",
+      "name": "Xijing University",
+      "country": "CN",
+      "formatting": []
+    },
+    {
+      "id": "int_13109",
+      "name": "Xingtai University",
+      "country": "CN",
+      "formatting": []
+    },
+    {
+      "id": "int_16160",
+      "name": "STIE YKPN Yogyakarta",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_16301",
+      "name": "Yarsi University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_16302",
+      "name": "Yogyakarta PGRI University of Yogyakarta",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_16305",
+      "name": "Yos Sudarso University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_16129",
+      "name": "Papua Yapis University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_23910",
+      "name": "Yonsei University",
+      "country": "KR",
+      "formatting": []
+    },
+    {
+      "id": "int_16303",
+      "name": "Yogyakarta State University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_16306",
+      "name": "Yudharta Pasuruan University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_15983",
+      "name": "Jenderal Achmad Yani University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_15802",
+      "name": "Atma Jaya Yogyakarta University",
+      "country": "ID",
+      "formatting": []
+    },
+    {
+      "id": "int_21901",
+      "name": "Zamboanga Universiy",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_17880",
+      "name": "Sultan Zainal Abidin University",
+      "country": "MY",
+      "formatting": []
+    },
+    {
+      "id": "int_21903",
+      "name": "Zamora Memorial College",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_21343",
+      "name": "Northern Zambales College",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_10679",
+      "name": "Z.H. Zikder University of Science and Technology",
+      "country": "BD",
+      "formatting": []
+    },
+    {
+      "id": "int_20648",
+      "name": "Ateneo de Zamboanga University",
+      "country": "PH",
+      "formatting": []
+    },
+    {
+      "id": "int_13142",
+      "name": "Yuan-Ze University",
+      "country": "CN",
+      "formatting": []
+    },
+    {
+      "id": "int_13161",
+      "name": "Zhaoqing University",
+      "country": "CN",
+      "formatting": []
+    },
+    {
+      "id": "int_13171",
+      "name": "Zhejiang University",
+      "country": "CN",
+      "formatting": []
+    },
+    {
+      "id": "int_15316",
+      "name": "Himgiri Zee University",
+      "country": "IN",
+      "formatting": []
+    }
+  ]
+}
