@@ -17,6 +17,15 @@ const createMathPreference = async (user_id) => {
   }
 };
 
+const saveTokenToUser = async (user_id, token) => {
+  const user = await User.updateOne(
+    { _id: user_id },
+    { $set: { token: token } }
+  );
+
+  return user;
+};
+
 const AuthLogin = async (req, res) => {
   const { accessToken, email, typeAuth, name } = req.body;
 
@@ -25,7 +34,6 @@ const AuthLogin = async (req, res) => {
     let update = { expire: new Date() };
     let user = await User.findOneAndUpdate(
       {
-        token: accessToken,
         email,
         type_login: typeAuth,
         name: name,
@@ -35,6 +43,7 @@ const AuthLogin = async (req, res) => {
     ).populate("preference_id");
 
     if (user) {
+      await saveTokenToUser(user._id, accessToken);
       if (!user.preference_id) {
         let updatedUser = await createMathPreference(user._id);
         console.log(updatedUser);
