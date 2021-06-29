@@ -30,7 +30,11 @@ const AuthLogin = async (req, res) => {
   const { accessToken, email, typeAuth, name } = req.body;
 
   try {
-    let options = { upsert: true, new: true, setDefaultsOnInsert: true };
+    let options = {
+      upsert: true,
+      new: true,
+      setDefaultsOnInsert: true,
+    };
     let update = { expire: new Date() };
     let user = await User.findOneAndUpdate(
       {
@@ -46,7 +50,6 @@ const AuthLogin = async (req, res) => {
       await saveTokenToUser(user._id, accessToken);
       if (!user.preference_id) {
         let updatedUser = await createMathPreference(user._id);
-        console.log(updatedUser);
         return res.status(200).send({
           status: "success",
           token: updatedUser.token,

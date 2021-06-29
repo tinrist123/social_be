@@ -1,10 +1,12 @@
 const mongoose = require("mongoose");
+const UserInfomation = require("./UserInformation");
 
 const UserSchema = mongoose.Schema(
   {
     name: {
       type: String,
       require: true,
+      default: "",
     },
     email: {
       type: String,

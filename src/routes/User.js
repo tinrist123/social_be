@@ -11,6 +11,7 @@ const {
   PushNewImage,
   EditAccount,
   EditImages,
+  updateUser,
 } = require("../Controllers");
 
 router.get("/recs", getRecsUser);
@@ -23,5 +24,6 @@ router.post("/auth", AuthLogin);
 router.post("/check/auth", CheckLogin);
 router.post("/img", PushNewImage);
 router.post("/list/img", EditImages);
+router.post("/update", updateUser);
 
 module.exports = router;

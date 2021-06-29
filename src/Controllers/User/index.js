@@ -8,8 +8,10 @@ const CheckLogin = require("./CheckLogin");
 const PushNewImage = require("./PushNewImage");
 const EditAccount = require("./EditAccount");
 const EditImages = require("./EditImages");
+const updateUser = require("./updateUser");
 
 module.exports = {
+  updateUser,
   EditImages,
   getRecsUser,
   getUserInformation,
