@@ -11,4 +11,6 @@ const CollegeSchema = mongoose.Schema({
   },
 });
 
+CollegeSchema.index({ name: "text" });
+
 module.exports = mongoose.model("college", CollegeSchema);
