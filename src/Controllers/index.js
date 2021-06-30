@@ -9,16 +9,15 @@ const {
   PushNewImage,
   EditAccount,
   EditImages,
-<<<<<<< HEAD
+
   LikeUser,
   getListMatch,
-=======
->>>>>>> 1a3283ff7f027b832588b0288d71368824e211d4
+
   updateUser,
 } = require("./User");
 const { getAllPassions } = require("./Passion");
 const { getCollegeByQuery } = require("./College");
-<<<<<<< HEAD
+
 const {
   createConversation,
   saveMessage,
@@ -26,11 +25,6 @@ const {
   getMessages,
 } = require("./Chat");
 module.exports = {
-=======
-
-module.exports = {
-  updateUser,
->>>>>>> 1a3283ff7f027b832588b0288d71368824e211d4
   PushNewImage,
   getRecsUser,
   getAllPassions,
@@ -43,7 +37,7 @@ module.exports = {
   CheckLogin,
   EditAccount,
   EditImages,
-<<<<<<< HEAD
+
   LikeUser,
   getListMatch,
   createConversation,
@@ -51,6 +45,4 @@ module.exports = {
   getListConversation,
   updateUser,
   getMessages,
-=======
->>>>>>> 1a3283ff7f027b832588b0288d71368824e211d4
 };
