@@ -2,6 +2,7 @@ const mongoose = require("mongoose");
 
 const ConversationSchema = mongoose.Schema(
   {
+
     _id: {
       type: String,
       require: true,
@@ -16,6 +17,7 @@ const ConversationSchema = mongoose.Schema(
   {
     timestamps: true,
   },
+
 );
 
 module.exports = mongoose.model("conversation", ConversationSchema);

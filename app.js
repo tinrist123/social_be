@@ -1,5 +1,6 @@
 const express = require("express");
 const app = express();
+
 const { Server } = require("socket.io");
 const http = require("http");
 const cors = require("cors");
@@ -59,13 +60,16 @@ global.io = new Server(server, {
 
 global.io.on("connection", WebSockets.connection);
 
+
 //connect to DB
 mongoose.connect(
   process.env.DB_CONNECTION,
   { useNewUrlParser: true, useFindAndModify: false, useUnifiedTopology: true },
   () => {
     console.log("connect to DB");
+
   },
 );
 
 server.listen(3333);
+

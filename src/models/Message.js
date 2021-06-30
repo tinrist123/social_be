@@ -7,9 +7,11 @@ const MessageSchema = mongoose.Schema(
       ref: "user",
     },
     conversation_id: {
+
       type: String,
       ref: "conversation",
     },
+
 
     message_text: {
       type: String,
@@ -21,7 +23,9 @@ const MessageSchema = mongoose.Schema(
   },
   {
     timestamps: true,
-  },
+
+  }
+
 );
 
 module.exports = mongoose.model("message", MessageSchema);

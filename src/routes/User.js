@@ -11,6 +11,7 @@ const {
   PushNewImage,
   EditAccount,
   EditImages,
+
   LikeUser,
   getListMatch,
   updateUser,
@@ -30,4 +31,5 @@ router
   .post("/like", LikeUser)
   .get("/get-list-match/:_id", getListMatch)
   .post("/update", updateUser);
+
 module.exports = router;

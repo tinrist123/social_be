@@ -1,5 +1,8 @@
 const mongoose = require("mongoose");
 
+const UserInfomation = require("./UserInformation");
+
+
 const UserSchema = mongoose.Schema(
   {
     name: {
@@ -10,6 +13,10 @@ const UserSchema = mongoose.Schema(
     email: {
       type: String,
       require: true,
+
+
+      unique: true,
+
     },
     type_login: {
       type: String,
@@ -48,8 +55,7 @@ const UserSchema = mongoose.Schema(
     images: [
       {
         type: String,
-        default:
-          "https://reactnativecode.com/wp-content/uploads/2018/02/Default_Image_Thumbnail.png",
+
       },
     ],
     users_dislike: [
@@ -64,18 +70,14 @@ const UserSchema = mongoose.Schema(
         ref: "user",
       },
     ],
+
     users_matched: [
       {
         type: mongoose.Schema.Types.ObjectId,
         ref: "user",
       },
     ],
-    list_conversation: [
-      {
-        type: mongoose.Schema.Types.ObjectId,
-        ref: "conversation",
-      },
-    ],
+
     passions: [
       {
         type: mongoose.Schema.Types.ObjectId,
@@ -91,7 +93,9 @@ const UserSchema = mongoose.Schema(
   },
   {
     timestamps: true,
+
   },
+
 );
 
 module.exports = mongoose.model("user", UserSchema);

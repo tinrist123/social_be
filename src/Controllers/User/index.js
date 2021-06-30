@@ -8,11 +8,13 @@ const CheckLogin = require("./CheckLogin");
 const PushNewImage = require("./PushNewImage");
 const EditAccount = require("./EditAccount");
 const EditImages = require("./EditImages");
+
 const LikeUser = require("./LikeUser");
 const getListMatch = require("./getListMatch");
 const updateUser = require("./updateUser");
 
 module.exports = {
+
   EditImages,
   getRecsUser,
   getUserInformation,
@@ -23,7 +25,9 @@ module.exports = {
   CheckLogin,
   PushNewImage,
   EditAccount,
+
   LikeUser,
   getListMatch,
   updateUser,
+
 };
