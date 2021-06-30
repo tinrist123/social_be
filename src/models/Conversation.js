@@ -2,18 +2,22 @@ const mongoose = require("mongoose");
 
 const ConversationSchema = mongoose.Schema(
   {
-    channel_name: {
+
+    _id: {
       type: String,
       require: true,
     },
-    is_private: {
-      type: Boolean,
-      require: true,
-    },
+
+    participants: [
+      {
+        type: String,
+      },
+    ],
   },
   {
     timestamps: true,
-  }
+  },
+
 );
 
 module.exports = mongoose.model("conversation", ConversationSchema);

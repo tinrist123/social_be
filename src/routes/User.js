@@ -11,19 +11,25 @@ const {
   PushNewImage,
   EditAccount,
   EditImages,
+
+  LikeUser,
+  getListMatch,
   updateUser,
 } = require("../Controllers");
 
-router.get("/recs", getRecsUser);
-router.get("/information", getUserInformation);
-router.post("/edit/gender", editGender);
-router.post("/edit/account", EditAccount);
-router.post("/edit/passion", editPassion);
-router.post("/edit/college", editCollege);
-router.post("/auth", AuthLogin);
-router.post("/check/auth", CheckLogin);
-router.post("/img", PushNewImage);
-router.post("/list/img", EditImages);
-router.post("/update", updateUser);
+router
+  .get("/recs/:_id", getRecsUser)
+  .get("/information", getUserInformation)
+  .post("/edit/gender", editGender)
+  .post("/edit/account", EditAccount)
+  .post("/edit/passion", editPassion)
+  .post("/edit/college", editCollege)
+  .post("/auth", AuthLogin)
+  .post("/check/auth", CheckLogin)
+  .post("/img", PushNewImage)
+  .post("/list/img", EditImages)
+  .post("/like", LikeUser)
+  .get("/get-list-match/:_id", getListMatch)
+  .post("/update", updateUser);
 
 module.exports = router;

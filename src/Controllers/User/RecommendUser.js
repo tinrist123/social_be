@@ -1,8 +1,14 @@
 const { User } = require("../../models");
 
 const getRecsUser = async (req, res) => {
+
+  const _id = req.params._id;
+
   try {
-    const recsUser = await User.find({}).limit(10).populate("user_info_id");
+    const recsUser = await User.find({ _id: { $ne: _id } })
+      .limit(10)
+      .populate("user_info_id");
+
 
     if (recsUser) {
       res.status(200).send({

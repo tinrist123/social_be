@@ -9,13 +9,22 @@ const {
   PushNewImage,
   EditAccount,
   EditImages,
+
+  LikeUser,
+  getListMatch,
+
   updateUser,
 } = require("./User");
 const { getAllPassions } = require("./Passion");
 const { getCollegeByQuery } = require("./College");
 
+const {
+  createConversation,
+  saveMessage,
+  getListConversation,
+  getMessages,
+} = require("./Chat");
 module.exports = {
-  updateUser,
   PushNewImage,
   getRecsUser,
   getAllPassions,
@@ -28,4 +37,12 @@ module.exports = {
   CheckLogin,
   EditAccount,
   EditImages,
+
+  LikeUser,
+  getListMatch,
+  createConversation,
+  saveMessage,
+  getListConversation,
+  updateUser,
+  getMessages,
 };

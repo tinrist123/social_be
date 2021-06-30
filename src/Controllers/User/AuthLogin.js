@@ -12,7 +12,7 @@ const createMathPreference = async (user_id) => {
     return await User.findOneAndUpdate(
       { _id: user_id },
       update,
-      options
+      options,
     ).populate("preference_id");
   }
 };
@@ -20,7 +20,8 @@ const createMathPreference = async (user_id) => {
 const saveTokenToUser = async (user_id, token) => {
   const user = await User.updateOne(
     { _id: user_id },
-    { $set: { token: token } }
+
+    { $set: { token: token } },
   );
 
   return user;
@@ -43,7 +44,8 @@ const AuthLogin = async (req, res) => {
         name: name,
       },
       update,
-      options
+
+      options,
     ).populate("preference_id");
 
     if (user) {

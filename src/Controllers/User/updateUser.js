@@ -38,7 +38,10 @@ const updateUser = async (req, res) => {
           images: pics,
           user_info_id: await createUserInfo(gender),
         },
-      }
+
+      },
+
+
     ).populate("user_info_id");
 
     if (userUpdated) {

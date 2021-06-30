@@ -1,5 +1,7 @@
 const mongoose = require("mongoose");
+
 const UserInfomation = require("./UserInformation");
+
 
 const UserSchema = mongoose.Schema(
   {
@@ -11,7 +13,10 @@ const UserSchema = mongoose.Schema(
     email: {
       type: String,
       require: true,
+
+
       unique: true,
+
     },
     type_login: {
       type: String,
@@ -50,6 +55,7 @@ const UserSchema = mongoose.Schema(
     images: [
       {
         type: String,
+
       },
     ],
     users_dislike: [
@@ -64,6 +70,14 @@ const UserSchema = mongoose.Schema(
         ref: "user",
       },
     ],
+
+    users_matched: [
+      {
+        type: mongoose.Schema.Types.ObjectId,
+        ref: "user",
+      },
+    ],
+
     passions: [
       {
         type: mongoose.Schema.Types.ObjectId,
@@ -79,7 +93,9 @@ const UserSchema = mongoose.Schema(
   },
   {
     timestamps: true,
-  }
+
+  },
+
 );
 
 module.exports = mongoose.model("user", UserSchema);
