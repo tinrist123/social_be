@@ -9,7 +9,7 @@ const LikeUser = async (req, res) => {
       {
         _id: targetUserId,
       },
-      { users_like: 1 },
+      { users_like: 1 }
     );
 
     if (targetUser.users_like.includes(userId)) {
@@ -24,13 +24,13 @@ const LikeUser = async (req, res) => {
         { _id: userId },
         {
           $push: { users_matched: targetUserId },
-        },
+        }
       );
       await User.updateOne(
         { _id: targetUserId },
         {
           $push: { users_matched: userId },
-        },
+        }
       );
 
       return res
@@ -42,12 +42,12 @@ const LikeUser = async (req, res) => {
       { _id: userId },
       {
         $push: { users_like: targetUserId },
-      },
+      }
     );
 
     return res.status(200).json({ success: true, status: "liked" });
   } catch (error) {
-    return res.status(500).json({ success: false, error: error });
+    return res.status(500).json({ success: false, error: error.message });
   }
 };
 

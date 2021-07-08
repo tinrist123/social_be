@@ -17,12 +17,16 @@ const CheckLogin = async (req, res) => {
       });
     }
     // else
-    return res
-      .status(404)
-      .send({ status: "authentication failure", statusCode: 404 });
+    return res.status(404).send({
+      status: "authentication failure",
+      statusCode: 404,
+      token: access_token,
+    });
   } catch (error) {
     console.log(error.message);
-    res.status(404).send({ status: "query failure", statusCode: 404 });
+    res
+      .status(404)
+      .send({ status: "query failure", statusCode: 404, error: error.message });
   }
 };
 

@@ -12,19 +12,23 @@ const createMathPreference = async (user_id) => {
     return await User.findOneAndUpdate(
       { _id: user_id },
       update,
-      options,
+      options
     ).populate("preference_id");
   }
 };
 
 const saveTokenToUser = async (user_id, token) => {
-  const user = await User.updateOne(
-    { _id: user_id },
+  try {
+    const user = await User.updateOne(
+      { _id: user_id },
 
-    { $set: { token: token } },
-  );
-
-  return user;
+      { $set: { token: token } }
+    );
+    console.log(user_id);
+    console.log(user);
+  } catch (error) {
+    console.log(error.message);
+  }
 };
 
 const AuthLogin = async (req, res) => {
@@ -44,8 +48,7 @@ const AuthLogin = async (req, res) => {
         name: name,
       },
       update,
-
-      options,
+      options
     ).populate("preference_id");
 
     if (user) {
@@ -54,13 +57,13 @@ const AuthLogin = async (req, res) => {
         let updatedUser = await createMathPreference(user._id);
         return res.status(200).send({
           status: "success",
-          token: updatedUser.token,
+          token: accessToken,
           user: updatedUser,
         });
       } else {
         return res.status(200).send({
           status: "success",
-          token: user.token,
+          token: accessToken,
           user: user,
         });
       }
